@@ -5,15 +5,12 @@ This repository contains the collaborative work for the three group assignments 
 ## Assignments Overview
 
 - **Assignment 1**: Analysis of Financial Markets
-  - [RSM312GroupAssignment1.pdf](RSM312GroupAssignment1.pdf)
   - This document contains our comprehensive analysis of various financial markets, including stock, bond, and commodity markets, using current economic theories and market trends.
 
 - **Assignment 2**: Corporate Finance Strategies
-  - [RSM312GroupAssignment2.pdf](RSM312GroupAssignment2.pdf)
   - In this assignment, we explore different corporate finance strategies and their impact on company performance, risk management, and valuation.
 
 - **Assignment 3**: Financial Instruments and Risk Management
-  - [RSM312GroupAssignment3.pdf](RSM312GroupAssignment3.pdf)
   - Here we delve into financial instruments and risk management techniques. The assignment covers the use and implications of derivatives, hedging strategies, and risk assessment models.
 
 ## Usage
