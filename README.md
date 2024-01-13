@@ -13,9 +13,6 @@ This repository contains the collaborative work for the three group assignments 
 - **Assignment 3**: Financial Instruments and Risk Management
   - Here we delve into financial instruments and risk management techniques. The assignment covers the use and implications of derivatives, hedging strategies, and risk assessment models.
 
-## Usage
-
-To view an assignment, click on the corresponding link above. Each assignment is provided in PDF format for ease of access and consistency across different devices and platforms.
 
 ## Contributions
 
@@ -24,10 +21,6 @@ The assignments were completed by our group members, who each contributed to res
 ## License
 
 The materials in this repository are provided for educational purposes only. Unauthorized distribution or use in any form without the group's consent is prohibited.
-
-## Contact
-
-For questions or permission to use these materials, please contact the repository maintainer.
 
 ---
 
